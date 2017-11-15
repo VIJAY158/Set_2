@@ -15,4 +15,5 @@ if(f!=1)
 printf("Prime number");
 else
 printf("Not a prime number");
+return 0;
 }
